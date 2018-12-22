@@ -7,4 +7,4 @@ sudo apt-get remove -y firefox-esr && sudo apt-get install -y firefox-esr
 ```
 
 
-note :il faut exécuter cela pour chaque utilisateur linux du système installé pour exploiter par la machine.
+note : il faut exécuter cela pour chaque utilisateur linux du système installé pour exploiter par la machine.
